@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://stats.quine.sh/Yxoo/github?theme=dark" />
-</p>>
+</p>
 
 ---
 
