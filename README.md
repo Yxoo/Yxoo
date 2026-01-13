@@ -48,12 +48,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yxoo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yxoo&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://stats.quine.sh/Yxoo/github?theme=dark" />
+</p>>
 
 ---
 
