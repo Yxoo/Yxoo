@@ -120,7 +120,7 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 
 - 💬 **Discord** : `yxoo`
 - 🌐 **GitHub** : [github.com/Yxoo](https://github.com/Yxoo)
-- 🔗 **Projet Frank** : [frankmine.xyz](https://www.frankmine.xyz) ![Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.frankmine.xyz&style=flat-square&label=statut)
+- 🔗 **Projet Frank** : [frankmine.xyz](https://www.frankmine.xyz) ![](https://img.shields.io/website?url=https%3A%2F%2Fwww.frankmine.xyz&up_message=online&down_message=offline&style=flat-square)
 
 ---
 
