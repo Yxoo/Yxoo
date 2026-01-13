@@ -11,7 +11,7 @@
 
 Développeur passionné avec une forte affinité pour l'automatisation et les projets techniques innovants. Mon parcours m'a amené à explorer divers domaines du développement, de la création de plugins Minecraft aux bots Discord, en passant par des applications web modernes.
 
-- 💻 **Spécialisations** : Automatisation, reverse engineering, architectures backend/frontend
+- 💻 **Spécialisations** : Développement de jeux/plugins, systèmes backend, automatisation et outils
 - 🧩 **Projets phares** : Plugins Minecraft (Spigot/Paper), bots Discord multifonctions, extensions Chrome, applications web
 - 🛠️ **Philosophie** : Comprendre en profondeur comment les choses fonctionnent, puis les améliorer
 - 🎓 **Formation** : Ancien étudiant à **l'école 42** (cursus partiel incluant **minishell** - parsing, pipes, redirections, gestion mémoire)
