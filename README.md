@@ -46,11 +46,11 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yxoo&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yxoo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📫 Me contacter
 
 - 💬 Discord : `yxoo`
-- 🌐 GitHub : [github.com/TON_PSEUDO](https://github.com/TON_PSEUDO)
+- 🌐 GitHub : [github.com/TON_PSEUDO](https://github.com/Yxoo)
 
 ---
 
