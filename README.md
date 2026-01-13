@@ -39,10 +39,14 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 ![Geyser](https://img.shields.io/badge/Geyser-00A8E8?style=for-the-badge&logoColor=white)
 ![Nexo](https://img.shields.io/badge/Nexo-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Outils & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Outils & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
@@ -70,6 +74,7 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 - **minishell (42)** : Shell Unix complet avec parsing, pipes, redirections, signaux, gestion mémoire
 - **Automatisation** : Scripts Python/Bash, workflows CI/CD
 - **Reverse engineering** : Analyse de protocoles, interception de trafic réseau
+- **Conteneurisation** : Déploiement d'applications avec Docker
 
 ---
 
@@ -82,7 +87,7 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 - Gestion d'états et persistance de données
 
 **Backend**
-- Bases de données (SQLite, Firebase Firestore)
+- Bases de données (PostgreSQL, SQLite, Firebase Firestore)
 - Gestion asynchrone et multi-threading
 - Optimisation de performances
 - Sécurité et validation
@@ -94,6 +99,7 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 - Extensions navigateur (Manifest V3)
 
 **DevOps & Outils**
+- Conteneurisation avec Docker
 - Git workflow et versioning
 - Configuration serveurs (Linux/Ubuntu)
 - Gestion de dépendances (npm, pip, Maven)
@@ -121,8 +127,4 @@ Développeur passionné avec une forte affinité pour l'automatisation et les pr
 <p align="center">
   <i>"Code propre, logique claire, projet utile."</i><br>
   <i>"Comprendre comment ça marche, puis le faire mieux."</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yxoo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
