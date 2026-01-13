@@ -12,6 +12,7 @@
 - 💻 Développeur passionné par l'automatisation et les projets techniques
 - 🧩 Créateur de **plugins Minecraft**, **bots Discord** et **web apps**
 - 🛠️ J'aime bidouiller, reverse, comprendre comment les choses fonctionnent
+- 🎓 Ancien étudiant à **l’école 42** (cursus partiel, dont **minishell**)
 - 🌱 Toujours en train d'apprendre et d'optimiser
 
 ---
@@ -21,8 +22,8 @@
 ### Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ### Frameworks / Outils
 ![Spigot](https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge)
@@ -38,6 +39,7 @@
 - 🟢 **Minecraft Plugins** – mécaniques custom, datapacks, optimisation
 - 🤖 **Bots Discord** – modération, API, OAuth2
 - 🌐 **Web Apps** – outils utiles, dashboards, clipping
+- 🐚 **minishell (42)** – parsing, pipes, redirections, signaux, gestion mémoire
 
 > 🔎 Regarde mes repos pour voir mes projets en détail
 
@@ -58,7 +60,7 @@
 ## 📫 Me contacter
 
 - 💬 Discord : `yxoo`
-- 🌐 GitHub : [github.com/TON_PSEUDO](https://github.com/Yxoo)
+- 🌐 GitHub : [github.com/Yxoo](https://github.com/Yxoo)
 
 ---
 
