@@ -41,15 +41,7 @@
 - 🌐 **Web Apps** – outils utiles, dashboards, clipping
 - 🐚 **minishell (42)** – parsing, pipes, redirections, signaux, gestion mémoire
 
-> 🔎 Regarde mes repos pour voir mes projets en détail
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://stats.quine.sh/Yxoo/github?theme=dark" />
-</p>
+> 🔎 Regarde mes repos pour voir mes projets en détail (si il y en a)
 
 ---
 
